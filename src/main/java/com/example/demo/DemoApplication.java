@@ -8,5 +8,6 @@ public class DemoApplication {
 	public static void main1(String[] args) {
 		SpringApplication.run(DemoApplication.class,args);
 		System.out.println("Hello Git");
+		System.out.println("创建分支");
 	}
 }
